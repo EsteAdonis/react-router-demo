@@ -15,6 +15,14 @@ code {
     monospace;
 }
 
+.primary-nav {
+	background-color: aliceblue;
+	padding: 16px 32px;
+}
+
+nav {
+	padding: 20px 5px;
+}
 
 nav a {
 	margin-right: 16px;
